@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1402068328 source:c:\bussola\tecnologia em jogos digitais\2014 - 1 semestre\pi\pi - oficial\pi - tower defense\main.cpp
+	<SDL/SDL.h>
+	<stdlib.h>
+	<stdio.h>
+	<fstream>
+	<iostream>
+	<SDL/SDL_gfxPrimitives.h>
+	<math.h>
+
